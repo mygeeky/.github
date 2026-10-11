@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mygeeky/myGeeKy/main/src/mygeeky/gui/assets/icon_128.png" width="96" alt="myGeeKy">
+  <img src="https://raw.githubusercontent.com/mygeeky/myGeeKy/main/src/mygeeky/gui/assets/icon_256.png?v=3" width="96" alt="myGeeKy">
 </p>
 
 <h3 align="center">myGeeKy: your corner of GitHub, for research</h3>
